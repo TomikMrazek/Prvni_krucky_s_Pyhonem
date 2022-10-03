@@ -2,6 +2,7 @@
 __pycache__/
 *.py[cod]
 *$py.class
+seznam_pokoje.xlsx
 
 # C extensions
 *.so
